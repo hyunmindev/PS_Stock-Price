@@ -1,7 +1,7 @@
 # Printer Queue
 
-### strategy
+## strategy
 Stack
 
-# flowchart
+## flowchart
 ![flowchart](https://github.com/hyunmindev/PS_Stock-Price/blob/main/stock%20price-2.png)
